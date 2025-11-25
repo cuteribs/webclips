@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "0fa24421f093d351",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcf2e22e00f7cc6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "885250cafc0efbf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "海信电视去广告 精简系统/海信电视去广告 精简系统.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "海信电视去广告 精简系统"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "054dd749b242bac9",
+    "type": "split",
+    "children": [
+      {
+        "id": "99f321843675d624",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee8556b6ac3b21ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "2409d58922cc1b7b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "7b56a59fd8a4f2fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc500492b3b80f56",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e0e13629814d184",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3449b1a99887810c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "海信电视去广告 精简系统/海信电视去广告 精简系统.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "海信电视去广告 精简系统 的反向链接列表"
+            }
+          },
+          {
+            "id": "3aeedc117b955e71",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "海信电视去广告 精简系统/海信电视去广告 精简系统.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "海信电视去广告 精简系统 的出链列表"
+            }
+          },
+          {
+            "id": "8e00245e5dee31df",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "ecbb29ea0dbe1b86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "海信电视去广告 精简系统/海信电视去广告 精简系统.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "海信电视去广告 精简系统 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
+    }
+  },
+  "active": "ee8556b6ac3b21ba",
+  "lastOpenFiles": [
+    "海信电视去广告 精简系统/c0125176bd169870808e8c02b23a6dd4_MD5.jpg",
+    "海信电视去广告 精简系统/海信电视去广告 精简系统.md",
+    "海信电视去广告 精简系统/d632ed6bded4c43eb8769e6384d8f6d3_MD5.jpg",
+    "海信电视去广告 精简系统/7fb1bda8c1a5fc7ebf9669337ca1e7cc_MD5.jpg",
+    "海信电视去广告 精简系统",
+    "海信电视去广告 精简系统/99fc13484acf7f9fa10ed825b606519b_MD5.jpg",
+    "海信电视去广告 精简系统/c0fd170b1e7e314f1389a0b641bc4729_MD5.png",
+    "海信电视去广告 精简系统/a43327e8bc67263caaec9c8d63e8cb56_MD5.png",
+    "海信电视去广告 精简系统/76a8a9f428aed248a23198c45ea550f8_MD5.png",
+    "海信电视去广告 精简系统/5141591223345054c3960fe09db3dc31_MD5.png",
+    "Clippings"
+  ]
+}
