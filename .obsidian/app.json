@@ -1,5 +1,7 @@
 {
   "showUnsupportedFiles": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "notes"
+  "newFileFolderPath": "notes",
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
 }

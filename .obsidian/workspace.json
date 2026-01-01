@@ -11,15 +11,14 @@
             "id": "9b976269c9db0fa1",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "notes/SPEC.md",
-                "bFile": "notes/SPEC.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "notes/海信电视去广告 精简系统/海信电视去广告 精简系统.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "diff",
-              "title": "Diff: SPEC"
+              "icon": "lucide-file",
+              "title": "海信电视去广告 精简系统"
             }
           }
         ]
@@ -95,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/海信电视去广告 精简系统/海信电视去广告 精简系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "海信电视去广告 精简系统 的反向链接列表"
             }
           },
           {
@@ -154,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "notes/海信电视去广告 精简系统/海信电视去广告 精简系统.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "海信电视去广告 精简系统 的大纲"
             }
           },
           {
@@ -195,12 +196,12 @@
   },
   "active": "9b976269c9db0fa1",
   "lastOpenFiles": [
-    "notes/SPEC.md",
+    "notes/SPEC 为什么会失败？/SPEC 为什么会失败？.md",
     "notes/index.md",
+    "notes/SPEC.md",
     "新建 文本文档.txt",
     "新建文件夹",
     "notes/海信电视去广告 精简系统/海信电视去广告 精简系统.md",
-    "notes/SPEC 为什么会失败？/SPEC 为什么会失败？.md",
     "notes/SPEC 为什么会失败？/01.jpg",
     "notes",
     "mkdocs.yml",
