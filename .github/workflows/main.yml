@@ -22,7 +22,7 @@ jobs:
 
       - name: Install MkDocs
         run: |
-          pip install mkdocs-material
+          pip install mkdocs-gitbook mkdocs-github
           pip install mkdocs-awesome-pages-plugin
 
       - name: Build and Deploy
