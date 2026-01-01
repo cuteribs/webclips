@@ -11,14 +11,10 @@
             "id": "9b976269c9db0fa1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/海信电视去广告 精简系统/海信电视去广告 精简系统.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "海信电视去广告 精简系统"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/海信电视去广告 精简系统/海信电视去广告 精简系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "海信电视去广告 精简系统 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -194,32 +189,37 @@
       "index-notes:New note by copying metadata of focused note": false
     }
   },
-  "active": "9b976269c9db0fa1",
+  "active": "332419337ce0a31f",
   "lastOpenFiles": [
+    "新建文件夹",
+    "config.js",
+    "新建 文本文档.txt",
+    "index.md",
+    "海信电视去广告 精简系统/海信电视去广告 精简系统.md",
+    "海信电视去广告 精简系统/d632ed6bded4c43eb8769e6384d8f6d3_MD5.jpg",
+    "海信电视去广告 精简系统/c0fd170b1e7e314f1389a0b641bc4729_MD5.png",
+    "海信电视去广告 精简系统/c0125176bd169870808e8c02b23a6dd4_MD5.jpg",
+    "海信电视去广告 精简系统/a43327e8bc67263caaec9c8d63e8cb56_MD5.png",
+    "海信电视去广告 精简系统/99fc13484acf7f9fa10ed825b606519b_MD5.jpg",
+    "海信电视去广告 精简系统/7fb1bda8c1a5fc7ebf9669337ca1e7cc_MD5.jpg",
+    "海信电视去广告 精简系统/76a8a9f428aed248a23198c45ea550f8_MD5.png",
+    "海信电视去广告 精简系统/5141591223345054c3960fe09db3dc31_MD5.png",
+    "海信电视去广告 精简系统",
+    "SPEC 为什么会失败？/SPEC 为什么会失败？.md",
+    "SPEC 为什么会失败？/08.jpg",
+    "SPEC 为什么会失败？/07.jpg",
+    "SPEC 为什么会失败？",
     "notes/SPEC 为什么会失败？/SPEC 为什么会失败？.md",
     "notes/index.md",
     "notes/SPEC.md",
-    "新建 文本文档.txt",
-    "新建文件夹",
     "notes/海信电视去广告 精简系统/海信电视去广告 精简系统.md",
-    "notes/SPEC 为什么会失败？/01.jpg",
     "notes",
     "mkdocs.yml",
     "_Index_of_webclips.md",
     "海信电视去广告 精简系统/_Index_of_海信电视去广告 精简系统.md",
     "SPEC 为什么会失败？/_Index_of_SPEC 为什么会失败？.md",
-    "index.md",
-    "notes/SPEC 为什么会失败？/08.jpg",
-    "notes/SPEC 为什么会失败？/07.jpg",
-    "notes/SPEC 为什么会失败？/06.jpg",
-    "notes/SPEC 为什么会失败？/05.jpg",
-    "notes/SPEC 为什么会失败？/04.jpg",
-    "notes/SPEC 为什么会失败？/03.jpg",
-    "notes/SPEC 为什么会失败？/02.jpg",
     "notes/SPEC 为什么会失败？",
     "新建文件夹/SPEC 为什么会失败？.md",
-    "新建文件夹/08.jpg",
-    "新建文件夹/07.jpg",
     "notes/海信电视去广告 精简系统",
     "Clippings"
   ]
