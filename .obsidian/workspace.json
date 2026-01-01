@@ -149,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/海信电视去广告 精简系统/海信电视去广告 精简系统.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "海信电视去广告 精简系统 的大纲"
+              "title": "conflict-files-obsidian-git 的大纲"
             }
           },
           {
@@ -189,8 +189,11 @@
       "index-notes:New note by copying metadata of focused note": false
     }
   },
-  "active": "332419337ce0a31f",
+  "active": "ee8556b6ac3b21ba",
   "lastOpenFiles": [
+    "notes/海信电视去广告 精简系统/海信电视去广告 精简系统.md",
+    "conflict-files-obsidian-git.md",
+    "mkdocs.yml",
     "新建文件夹",
     "config.js",
     "新建 文本文档.txt",
@@ -212,9 +215,7 @@
     "notes/SPEC 为什么会失败？/SPEC 为什么会失败？.md",
     "notes/index.md",
     "notes/SPEC.md",
-    "notes/海信电视去广告 精简系统/海信电视去广告 精简系统.md",
     "notes",
-    "mkdocs.yml",
     "_Index_of_webclips.md",
     "海信电视去广告 精简系统/_Index_of_海信电视去广告 精简系统.md",
     "SPEC 为什么会失败？/_Index_of_SPEC 为什么会失败？.md",
