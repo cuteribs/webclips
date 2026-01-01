@@ -1,13 +1,13 @@
 site_name: Web Clips
 site_url: https://gh.cuteribs.com/webclips/
 
-docs_dir: .
+docs_dir: notes
 
 theme:
   name: material   # 可选：mkdocs-material（更好看）
 
 nav:
-  - 首页: index.md
+  - 首页: notes/index.md
   
 plugins:
   - search

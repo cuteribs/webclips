@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md.md",
+                "file": "notes/index.md.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md.md",
+                "file": "notes/index.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md.md",
+                "file": "notes/index.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -194,29 +194,31 @@
       "index-notes:New note by copying metadata of focused note": false
     }
   },
-  "active": "332419337ce0a31f",
+  "active": "ee8556b6ac3b21ba",
   "lastOpenFiles": [
+    "notes",
+    "mkdocs.yml",
     "_Index_of_webclips.md",
-    "index.md.md",
+    "notes/index.md.md",
     "海信电视去广告 精简系统/_Index_of_海信电视去广告 精简系统.md",
     "SPEC 为什么会失败？/_Index_of_SPEC 为什么会失败？.md",
-    "SPEC 为什么会失败？/SPEC 为什么会失败？.md",
+    "notes/SPEC 为什么会失败？/SPEC 为什么会失败？.md",
     "index.md",
-    "海信电视去广告 精简系统/海信电视去广告 精简系统.md",
-    "SPEC 为什么会失败？/08.jpg",
-    "SPEC 为什么会失败？/07.jpg",
-    "SPEC 为什么会失败？/06.jpg",
-    "SPEC 为什么会失败？/05.jpg",
-    "SPEC 为什么会失败？/04.jpg",
-    "SPEC 为什么会失败？/03.jpg",
-    "SPEC 为什么会失败？/02.jpg",
-    "SPEC 为什么会失败？/01.jpg",
-    "SPEC 为什么会失败？",
+    "notes/海信电视去广告 精简系统/海信电视去广告 精简系统.md",
+    "notes/SPEC 为什么会失败？/08.jpg",
+    "notes/SPEC 为什么会失败？/07.jpg",
+    "notes/SPEC 为什么会失败？/06.jpg",
+    "notes/SPEC 为什么会失败？/05.jpg",
+    "notes/SPEC 为什么会失败？/04.jpg",
+    "notes/SPEC 为什么会失败？/03.jpg",
+    "notes/SPEC 为什么会失败？/02.jpg",
+    "notes/SPEC 为什么会失败？/01.jpg",
+    "notes/SPEC 为什么会失败？",
     "新建文件夹/SPEC 为什么会失败？.md",
     "新建文件夹/08.jpg",
     "新建文件夹/07.jpg",
     "新建文件夹",
-    "海信电视去广告 精简系统",
+    "notes/海信电视去广告 精简系统",
     "Clippings"
   ]
 }
