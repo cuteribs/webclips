@@ -4,7 +4,7 @@ site_url: https://gh.cuteribs.com/webclips/
 docs_dir: notes
 
 theme:
-  name: material
+  name: readthedocs
 
 nav:
   - 首页: index.html
