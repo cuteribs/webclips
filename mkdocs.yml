@@ -4,10 +4,10 @@ site_url: https://gh.cuteribs.com/webclips/
 docs_dir: notes
 
 theme:
-  name: material   # 可选：mkdocs-material（更好看）
+  name: mkdocs-material
 
 nav:
-  - 首页: notes/index.md
+  - 首页: index.html
   
 plugins:
   - search

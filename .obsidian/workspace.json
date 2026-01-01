@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/index.md",
+                "file": "notes/SPEC 为什么会失败？/SPEC 为什么会失败？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "SPEC 为什么会失败？"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/index.md",
+                "file": "notes/SPEC 为什么会失败？/SPEC 为什么会失败？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "index 的反向链接列表"
+              "title": "SPEC 为什么会失败？ 的反向链接列表"
             }
           },
           {
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/index.md",
+                "file": "notes/SPEC 为什么会失败？/SPEC 为什么会失败？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大纲"
+              "title": "SPEC 为什么会失败？ 的大纲"
             }
           },
           {
@@ -194,12 +194,13 @@
       "index-notes:New note by copying metadata of focused note": false
     }
   },
-  "active": "ee8556b6ac3b21ba",
+  "active": "9b976269c9db0fa1",
   "lastOpenFiles": [
+    "notes/SPEC 为什么会失败？/01.jpg",
+    "notes/index.md",
     "notes",
     "mkdocs.yml",
     "_Index_of_webclips.md",
-    "notes/index.md",
     "海信电视去广告 精简系统/_Index_of_海信电视去广告 精简系统.md",
     "SPEC 为什么会失败？/_Index_of_SPEC 为什么会失败？.md",
     "notes/SPEC 为什么会失败？/SPEC 为什么会失败？.md",
@@ -212,7 +213,6 @@
     "notes/SPEC 为什么会失败？/04.jpg",
     "notes/SPEC 为什么会失败？/03.jpg",
     "notes/SPEC 为什么会失败？/02.jpg",
-    "notes/SPEC 为什么会失败？/01.jpg",
     "notes/SPEC 为什么会失败？",
     "新建文件夹/SPEC 为什么会失败？.md",
     "新建文件夹/08.jpg",
