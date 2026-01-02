@@ -20,6 +20,6 @@ jobs:
           npm run build
       - name: Deploy
         run: |
-          npx gh-pages -d docs/.vitepress/dist
+          npx gh-pages -d .vitepress/dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
